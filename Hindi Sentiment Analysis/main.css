@@ -1,0 +1,99 @@
+body {
+  height: 100vh;
+  margin: 0;
+  text-align: center;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    201deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  font-family: Montserrat;
+}
+
+#hindi {
+  color: orange;
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 2rem;
+  color: white;
+  text-shadow: 4px 4px 2px rgb(0, 0, 0);
+}
+
+#txt {
+  margin-top: 0em;
+  border-radius: 10px;
+  background: rgb(255, 255, 255);
+  outline: none;
+  font-size: 1.7rem;
+  padding: 1rem;
+  box-shadow: 5px 10px 8px #000000;
+}
+#pp {
+  margin-top: 0em;
+}
+
+textarea::placeholder {
+  border: 1px solid rgba(136, 136, 136, 0);
+  color: black;
+  caret-color: blue;
+  font-size: 1.7rem;
+}
+
+#scoreB,
+#comparativeB,
+#wordlistB {
+  display: inline-block;
+  font-size: 1rem;
+  color: black;
+  font-weight: 700;
+  background: rgb(180, 180, 180);
+  margin: 1.5rem;
+  border: none;
+  border-radius: 20px;
+  padding: 1rem;
+}
+#attitudeB {
+  box-shadow: 5px 10px 8px #000000;
+  font-size: 1.5rem;
+  margin: 1rem;
+  border: none;
+  border-radius: 20px;
+  padding: 1.5rem;
+}
+.positive {
+  background: green;
+  color: white;
+}
+.negative {
+  background: red;
+  color: white;
+}
+.neutral {
+  background: rgb(44, 44, 44);
+  color: white;
+}
+
+#pos {
+  font-size: 2rem;
+  font-weight: 700;
+  text-shadow: 4px 4px 2px rgb(0, 0, 0);
+}
+#neg {
+  font-size: 2rem;
+  font-weight: 700;
+  text-shadow: 4px 4px 2px rgb(0, 0, 0);
+}
+#neu {
+  font-size: 2rem;
+  font-weight: 700;
+  text-shadow: 4px 4px 2px rgb(0, 0, 0);
+}
+#wordlistB {
+  margin-top: 0em;
+}
