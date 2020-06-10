@@ -1,5 +1,6 @@
-# Hindi-Sentiment-Analyzer
 Author : Abdeali Saria
+# Hindi-Sentiment-Analyzer
+
 Steps to run: 
   1. open index.html
   2. if step 1 doesn't work start a simple python(or any) server to run index.html (easiest way is to install live server extension on vscode -> right click index.html and click open with live server)
