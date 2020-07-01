@@ -1,4 +1,5 @@
 Author : Abdeali Saria
+NLP (Natural Language processing) Mini Project
 # Hindi-Sentiment-Analyzer
 
 Steps to run: 
