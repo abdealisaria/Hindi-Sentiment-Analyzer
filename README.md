@@ -1,7 +1,5 @@
-Author : Abdeali Saria
-
 NLP (Natural Language processing) Mini Project
-# Hindi-Sentiment-Analyzer
+# Hindi-Sentiment-Analyzer (or any language: just change the words in the dataset to your preferred language)
 
 Steps to run: 
 
